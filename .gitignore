@@ -1,0 +1,6 @@
+# pg_regress / installcheck artifacts
+/regression.out
+/regression.diffs
+/results/
+/test/results/
+expected/results/

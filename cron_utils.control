@@ -1,0 +1,3 @@
+default_version = '0.1.0'
+comment = 'An extension providing utility functions to parse and compute cron expression trigger times'
+relocatable = true
