@@ -2,15 +2,14 @@
   "name": "cron_utils",
   "abstract": "Utility functions to parse and compute cron expression trigger times",
   "description": "A PostgreSQL extension providing functions to parse cron expressions and compute their trigger times.",
-  "version": "0.0.1",
-  "license": "postgresql",
-  "author": [
-    "Your Name <you@example.com>"
-  ],
+  "version": "0.1.0",
+  "license": {
+    "MIT": "https://github.com/Myshkouski/pg-cron-utils/blob/main/LICENSE"
+  },
   "maintainer": [
-    "Your Name <you@example.com>"
+    "Alexei Myshkouski <alexeimyshkouski@gmail.com>"
   ],
-  "keywords": [
+  "tags": [
     "cron",
     "schedule",
     "time",
@@ -23,5 +22,9 @@
       "abstract": "Cron trigger-time utility functions"
     }
   },
-  "release_status": "stable"
+  "release_status": "unstable",
+  "meta-spec": {
+    "version": "1.0.0",
+    "url": "https://pgxn.org/meta/spec.txt"
+  }
 }
